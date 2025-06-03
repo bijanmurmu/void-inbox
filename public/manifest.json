@@ -1,0 +1,20 @@
+{
+  "name": "Void Inbox",
+  "short_name": "Void Inbox",
+  "description": "Send messages to no one. They disappear after you send them. Occasionally, the Void replies.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "lang": "en"
+}
