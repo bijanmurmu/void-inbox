@@ -21,13 +21,13 @@ A minimalist "anti-social media" application where users can send messages that 
 
 1. Clone the repository
 2. Install dependencies:
-   \`\`\`bash
+   ```bash
    npm --force install
-   \`\`\`
+   ```
 3. Run the development server:
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Technologies Used
